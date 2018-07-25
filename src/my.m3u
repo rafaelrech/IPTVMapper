@@ -1,0 +1,878 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo HD" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="HD",Globo HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/247.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="HD",Telecine Action HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/193.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="HD",Telecine Premium HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/190.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="HD",Telecine Touch HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/189.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="HD",Telecine Fun HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/192.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="HD",Telecine Pipoca HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/191.ts
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="Telecine Cult" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="HD",Telecine Cult HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/241.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="HD",HBO HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/198.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="HD",HBO 2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/182.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="HD",HBO Plus HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/197.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="HD",HBO Family HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/172.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="HD",HBO Signature HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/196.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="HD",Cinemax HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/187.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://i.imgur.com/m3BSFuU.png" group-title="HD",Max HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/185.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="HD",Max UP HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/195.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="HD",Max Prime HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/245.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="HD",FOX HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/202.ts
+#EXTINF:-1 tvg-id="Fox 1" tvg-logo="http://s13.postimg.org/ngv48eron/fox1hd_1.png" group-title="HD",FOX1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/228.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="HD",FX HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/177.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wRd6SCN.png" group-title="HD",TNT HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/188.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://i.imgur.com/32l4fkH.png" group-title="HD",TNT Series HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/223.ts
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://i.imgur.com/LtmBqmB.png" group-title="HD",Space HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/194.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://i.imgur.com/l2LmrdK.png" group-title="HD",Megapix HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/225.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-logo="https://s12.postimg.org/sirjfrhy5/Mais_Globosat.png" group-title="HD",Mais Globosat HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/206.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="HD",Universal Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/222.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://s10.postimg.org/p0l1tzs9x/Canal_Brasil.png" group-title="HD",Canal Brasil HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/220.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="HD",Warner Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/178.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="HD",AXN HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/211.ts
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="HD",Sony HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/209.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="HD",Paramount Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/171.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://s9.postimg.org/55q56z7rj/bandsports.png" group-title="HD",BandSports HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/184.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="HD",FOX Sports HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/200.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="HD",FOX Sports 2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/201.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="HD",EI MAXX HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/229.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="HD",EI MAXX2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/204.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="HD",ESPN HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/169.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="HD",ESPN Brasil HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/203.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="HD",ESPN + HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/183.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s21.postimg.org/lx40mby87/Combate.png" group-title="HD",Combate HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/234.ts
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://static1.squarespace.com/static/54d22844e4b0c27bb20138c5/5530003ce4b0a97aa1971901/553004d3e4b058645c976b92/1429210323282/canal+off+2.png?format=300w" group-title="HD",Off HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/179.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="https://s21.postimg.org/eni7d0o6f/sportv.png" group-title="HD",SporTV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/242.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="https://s11.postimg.org/49pt6h3wz/sportv2.png" group-title="HD",SporTV 2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/244.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="https://s15.postimg.org/ql2nia30r/sportv3.png" group-title="HD",SporTV 3 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/243.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="HD",Animal Planet HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/175.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="HD",Discovery Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/170.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="https://s31.postimg.org/sq4g0j0bv/discovery_theater.png" group-title="HD",Discovery Theater HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/246.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://i.imgur.com/OyTmbDm.png" group-title="HD",Discovery World HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/186.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="HD",Discovery ID HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/174.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="HD",Discovery Turbo HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/231.ts
+#EXTINF:-1 tvg-id="History" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="HD",History Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/168.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="HD",H2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/173.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="HD",Nat Geo HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/224.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="https://s32.postimg.org/kvp90qkz9/natgeowild.png" group-title="HD",NatGeo Wild HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/180.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="http://i.imgur.com/dlnsQuu.png" group-title="HD",GloboNews HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/227.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-logo="http://i.imgur.com/T1v8Q22.png" group-title="HD",Disney Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/208.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="HD",Discovery Kids HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/232.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="HD",Cartoon Network HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/235.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://s21.postimg.org/mt2m4zbwj/gloob.png" group-title="HD",Gloob HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/207.ts
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s18.postimg.org/f9sbnd0c5/nick.png" group-title="HD",Nick HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/218.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="https://s13.postimg.org/y69wjbsx3/bis.png" group-title="HD",BIS HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/210.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="HD",A&E HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/176.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="http://i.imgur.com/ThLIXJX.png" group-title="HD",Discovery H&H HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/233.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/EqtWIV0.png" group-title="HD",E! HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/230.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="HD",GNT HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/199.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://i.imgur.com/vhtaznJ.png" group-title="HD",Lifetime HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/226.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="HD",Multishow HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/181.ts
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="HD",MTV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/219.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/b2KnYZL.png" group-title="HD",TLC HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/205.ts
+#EXTINF:-1 tvg-id="Viva" tvg-logo="https://s13.postimg.org/gwtfkq33b/vivarosho.png" group-title="HD",Viva HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/212.ts
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="https://s13.postimg.org/f3qiwehwn/vh1.png" group-title="HD",VH1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/213.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="HD",Premiere Clube HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/221.ts
+#EXTINF:-1 tvg-id="Premiere FC 2" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="HD",Premiere 2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/217.ts
+#EXTINF:-1 tvg-id="Premiere FC 3" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="HD",Premiere 3 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/216.ts
+#EXTINF:-1 tvg-id="Premiere FC 4" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="HD",Premiere 4 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/215.ts
+#EXTINF:-1 tvg-id="Premiere FC 5" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="HD",Premiere 5 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/214.ts
+
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo" tvg-logo="http://i.imgur.com/PxeGAQQ.png" group-title="Canais Abertos",Globo SP
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/2.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo" tvg-logo="http://i.imgur.com/61d0jBh.png" group-title="Canais Abertos",Globo RJ
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/567.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo" tvg-logo="http://i.imgur.com/LVtvrKx.png" group-title="Canais Abertos",Globo Minas
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/565.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo" tvg-logo="http://i.imgur.com/bVTd3Kh.png" group-title="Canais Abertos",Globo Brasilia
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/564.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo" tvg-logo="http://i.imgur.com/VvSIxX3.png" group-title="Canais Abertos",Globo Nordeste
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/566.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo" tvg-logo="http://i.imgur.com/4KhADG3.png" group-title="Canais Abertos",RBS TV (Globo RS)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/576.ts
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="Globo" tvg-logo="http://i.imgur.com/CUGr85D.png" group-title="Canais Abertos",TV Anhanguera (Globo GO)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/584.ts
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="Globo" tvg-logo="http://i.imgur.com/SNNqDFF.png" group-title="Canais Abertos",TV Bahia (Globo BA)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/585.ts
+#EXTINF:-1 tvg-id="TV Verder Mares" tvg-name="Globo" tvg-logo="http://i.imgur.com/nxrPLcC.png" group-title="Canais Abertos",TV Verdes Mares (Globo CE)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/587.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="http://i.imgur.com/cFUSBjp.png" group-title="Canais Abertos",RecordTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/6.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="http://i.imgur.com/mFIHvKN.png" group-title="Canais Abertos",RedeTV!
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/4.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/5.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band Alternativo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/560.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais Abertos",SBT
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/3.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://i.imgur.com/lGy7Q6S.png" group-title="Canais Abertos",Cultura
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/1.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Canal Futura" tvg-logo="http://i.imgur.com/Vtczjoa.png" group-title="Canais Abertos",Futura
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/7.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/AOZug22.png" group-title="Canais Abertos",TV Brasil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/99.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/9.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/8.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/12.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/10.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/11.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/13.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/14.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/15.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/18.ts
+#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus *e
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/568.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/17.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="",HBO Signature
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/16.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/23.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Filmes e Séries",Max UP
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/25.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/24.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime *e
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/571.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/31.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Filmes e Séries",Universal Channel
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/22.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="+Globosat" tvg-logo="http://i.imgur.com/AD5jFid.png" group-title="Filmes e Séries",Mais Globosat
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/108.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/32l4fkH.png" group-title="Filmes e Séries",TNT Series
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/101.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wRd6SCN.png" group-title="Filmes e Séries",TNT
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/30.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/mV8eIrm.png" group-title="Filmes e Séries",Canal Brasil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/112.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/yR967Au.png" group-title="Filmes e Séries",TCM
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/35.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/32.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS Brasil" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/33.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner TV" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Filmes e Séries",Warner Channel
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/26.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/34.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",FOX
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/20.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space TV" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/21.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Sony
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/28.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Filmes e Séries",Megapix
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/19.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/27.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/29.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/ozlOi6Q.png" group-title="Variedade e Músicas",I.Sat
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/109.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/lVsjiP5.png" group-title="Esportes",SporTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/55.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/h168Lot.png" group-title="Esportes",SporTV 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/56.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/BXIZKXY.png" group-title="Esportes",SporTV 3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/57.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="Fox Sports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/63.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="Fox Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/64.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/59.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://i.imgur.com/nMew9G1.png" group-title="Esportes",ESPN+
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/60.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/61.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Esportes",BandSports
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/58.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI Maxx" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",EI MAXX
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/65.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI Maxx 2" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",EI MAXX 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/66.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Esportes",Esporte Interativo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/67.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Esportes",Combate
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/80.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/71.ts
+#EXTINF:-1 tvg-id="Premiere FC 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/79.ts
+#EXTINF:-1 tvg-id="Premiere FC 8" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/78.ts
+#EXTINF:-1 tvg-id="Premiere FC 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/77.ts
+#EXTINF:-1 tvg-id="Premiere FC 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/76.ts
+#EXTINF:-1 tvg-id="Premiere FC 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/75.ts
+#EXTINF:-1 tvg-id="Premiere FC 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/74.ts
+#EXTINF:-1 tvg-id="Premiere FC 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/73.ts
+#EXTINF:-1 tvg-id="Premiere FC 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/72.ts
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Alternativo 1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/580.ts
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Alternativo 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/581.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="Canal Off" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Variedade e Músicas",Off
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/62.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo" tvg-logo="https://s12.postimg.org/b295tnrtp/woohoo.png" group-title="Esportes",WooHoo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/96.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="http://i.imgur.com/IBbsEVg.png" group-title="Esportes",FishTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/110.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Variedade e Músicas",BIS
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/37.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Variedade e Músicas",Multishow
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/39.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Brasil" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/38.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 Mega Hits" tvg-logo="http://i.imgur.com/XayFu4T.png" group-title="Variedade e Músicas",VH1 MegaHits
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/98.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedade e Músicas",TLC
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/44.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/kiAXVLS.png" group-title="Variedade e Músicas",Food Network
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/563.mts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Canal Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Variedade e Músicas",Viva
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/36.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Variedade e Músicas",GNT
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/40.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Filmes e Séries",Fox Life
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/43.ts
+#EXTINF:-1 tvg-id="SIC International" tvg-name="SIC Internacional" tvg-logo="http://i.imgur.com/IbfRtxj.png" group-title="Internacional",SIC Internacional
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/103.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/wqZIaBy.png" group-title="Variedade e Músicas",Prime Box Brazil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/104.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/tyZpSHF.png" group-title="Variedade e Músicas",Music Box Brazil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/106.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/AEiTKF1.png" group-title="Variedade e Músicas",Comedy Central
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/111.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/3VMa4T3.png" group-title="Variedade e Músicas",Arte 1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/113.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://s32.postimg.org/sexya43d1/curta.png" group-title="Variedade e Músicas",Curta!
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/562.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://i.imgur.com/7lKQGo2.png" group-title="Variedade e Músicas",truTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/100.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/102.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Infantil",PlayTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/573.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/85.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/ATdMMT7.png" group-title="Infantil",Disney Junior
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/84.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Infantil",Disney Channel
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/86.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/87.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/83.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/88.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/81.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/Js32UIq.png" group-title="Infantil",Boomerang
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/89.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/82.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/97.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/cTjufXv.png" group-title="Infantil",TV Rá Tim Bum
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/586.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="RBTV" tvg-logo="http://i.imgur.com/9VKMi4J.png" group-title="Canais Abertos",Rede Brasil
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/577.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="TV NBR" tvg-logo="https://s31.postimg.org/unreheciz/nbr.png" group-title="Canais Abertos",NBR
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/572.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic Channel" tvg-logo="http://i.imgur.com/UgmPkZ0.png" group-title="Documentários",Nat Geo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/45.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/52.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/53.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Documentários",Animal Planet
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/51.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Documentários",A&E
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/41.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentários",Discovery Channel
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/46.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/49.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/54.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/47.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home Health
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/48.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/50.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/VVMxDJG.png" group-title="Variedade e Músicas",E!
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/42.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://s19.postimg.org/s6k70av4j/Lifetime_logo.png" group-title="Variedade e Músicas",Lifetime
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/570.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/9elvVAu.png" group-title="Notícias",Record News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/69.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Notícias",BandNews
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/70.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Notícias",GloboNews
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/68.ts
+#EXTINF:-1 tvg-id="Rede Internacional de TV" tvg-name="RIT" tvg-logo="http://i.imgur.com/sEGPjfI.png" group-title="Religiosos",RIT
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/579.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",TV Novo Tempo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/105.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/IhbgaVR.png" group-title="",Ideal TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/569.ts
+#EXTINF:-1 tvg-id="RBI TV" tvg-logo="http://i.imgur.com/gy84qp1.png" group-title="Religiosos",RBI TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/575.ts
+#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/OZ3SOtO.png" group-title="Religiosos",TV Aparecida
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/559.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/OLaafK1.png" group-title="Religiosos",Rede Vida
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/578.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="TV Canção Nova" tvg-logo="https://s31.postimg.org/xqol2gckb/cancaonova.png" group-title="Religiosos",TV Canção Nova
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/561.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/L0kDb07.png" group-title="Canais Abertos",Terra Viva
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/582.ts
+
+
+#EXTINF:-1 tvg-id="TVCine4.pt" tvg-name="TVC4HD" tvg-logo="https://s14.postimg.org/vd2d5v4xd/tvc4.png" group-title="Filmes e Séries" (PT)",TVCine4 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/265.ts
+#EXTINF:-1 tvg-id="TVCine3.pt" tvg-name="TVC3HD" tvg-logo="https://s14.postimg.org/bh6dqbnw1/tvc3.png" group-title="Filmes e Séries (PT)",TVCine3 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/266.ts
+#EXTINF:-1 tvg-id="TVCine2.pt" tvg-name="TVC2HD" tvg-logo="https://s14.postimg.org/cuy0lmn5d/tvc2.png" group-title="Filmes e Séries (PT)",TVCine2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/267.ts
+#EXTINF:-1 tvg-id="TVCine1.pt" tvg-name="TVC1HD" tvg-logo="https://s13.postimg.org/zd3jhy93r/tvc1.png" group-title="Filmes e Séries (PT)",TVCine1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/268.ts
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSéries HD" tvg-logo="https://s14.postimg.org/onvtpujld/tvs.png" group-title="Filmes e Séries (PT)",TVCine&Series HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/251.ts
+#EXTINF:-1 tvg-id="FOXM" tvg-name="Fox Movies HD" tvg-logo="https://s14.postimg.org/njusrx6ld/foxmovies.png" group-title="Filmes e Séries (PT)",FOX Movies HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/329.ts
+#EXTINF:-1 tvg-id="FOXM" tvg-name="Fox Movies" tvg-logo="https://s14.postimg.org/njusrx6ld/foxmovies.png" group-title="Filmes e Séries (PT)",FOX Movies
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/330.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="Filmes e Séries (PT)",FOX Life HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/331.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries (PT)",FOX HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/332.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime" tvg-logo="https://s12.postimg.org/hlf8hkzql/Fox_Crime.png" group-title="Filmes e Séries (PT)",FOX Crime HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/333.ts
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy HD" tvg-logo="https://s12.postimg.org/blrhdxey5/foxcomedy.png" group-title="Filmes e Séries (PT)",FOX Comedy HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/334.ts
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="https://s19.postimg.org/u5z9in9nn/logo-white-header.png" group-title="Filmes e Séries (PT)",Cinemundo
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/354.ts
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Canal Hollywood" tvg-logo="https://s13.postimg.org/g1vtk6hpz/hollywood.png" group-title="Filmes e Séries (PT)",Hollywood HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/323.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://s13.postimg.org/oivbv3mev/amc.png" group-title="Filmes e Séries (PT)",AMC HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/373.ts
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="https://s15.postimg.org/o6yhbdn2z/axnwhite.png" group-title="Filmes e Séries (PT)",AXN White HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/370.ts
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="Filmes e Séries (PT)",AXN HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/371.ts
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD" tvg-logo="https://s15.postimg.org/z59qtkbob/axnblack.png" group-title="Filmes e Séries (PT)",AXN Black HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/372.ts
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="Syfy HD" tvg-logo="https://s17.postimg.org/i17nbtj1b/Syfy_(2).png" group-title="Filmes e Séries (PT)",SyFy HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/275.
+#EXTINF:-1 tvg-id="MOV" tvg-name="MOV" tvg-logo="https://s13.postimg.org/f0vkv20qf/MOV.png" group-title="Filmes e Séries (PT)",MOV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/310.ts
+#EXTINF:-1 tvg-id="SUNDANCEHD" tvg-logo="https://s11.postimg.org/o2m0rajlf/sundancetv.png" group-title="Filmes e Séries (PT)",SundanceTV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/276.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT.TV5 HD" tvg-logo="https://s21.postimg.org/k181vl3af/sporttv5.png" group-title="Esportes (PT)",SPORT·TV5 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/278.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT.TV4 HD" tvg-logo="https://s21.postimg.org/jzy4261gn/sporttv4.png" group-title="Esportes (PT)",SPORT·TV4 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/279.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 HD" tvg-logo="https://s13.postimg.org/6z8hjhhd3/sporttv3.png" group-title="Esportes (PT)",SPORT·TV3 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/280.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD" tvg-logo="https://s13.postimg.org/gii6cy4vb/sporttv2.png" group-title="Esportes (PT)",SPORT·TV2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/281.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 HD" tvg-logo="https://s13.postimg.org/gh88jj31j/sporttv1.png" group-title="Esportes (PT)",SPORT·TV1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/282.ts
+#EXTINF:-1 tvg-id="SPTVMAIS" tvg-logo="https://s9.postimg.org/6wmtrjdnj/sporttvpluis.png" group-title="Esportes (PT)",SPORT·TV+
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/283.ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="http://i.imgur.com/XF86Lho.png" group-title="Esportes (PT)",Benfica TV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/363.ts
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://s13.postimg.org/9phtgoe1z/sporting.png" group-title="Esportes (PT)",Sporting TV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/277.ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="https://s21.postimg.org/aywpoha9j/abola.png" group-title="Esportes (PT)",A Bola TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/376.ts
+#EXTINF:-1 tvg-id="RMTV" tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/P2zsyOp.png" group-title="Esportes (PT)",Real Madrid TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/300.ts
+#EXTINF:-1 tvg-id="MOTOR" tvg-name="Motors TV" tvg-logo="https://s10.postimg.org/pxekoi1bt/Motors_TV.png" group-title="Esportes (PT)",Motors TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/312.ts
+#EXTINF:-1 tvg-id="Kombat Sport" tvg-logo="https://s13.postimg.org/hu2su4t5z/Kombat_Sport.png" group-title="Esportes (PT)",Kombat Sport
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/318.ts
+#EXTINF:-1 tvg-id="FUELHD" tvg-name="Fuel TV HD" tvg-logo="https://s9.postimg.org/pm56qxjfj/fueltv.png" group-title="Esportes (PT)",Fuel TV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/327.ts
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://i.imgur.com/252B2oi.png" group-title="Esportes (PT)",Eurosport 2 (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/341.ts
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-name="Eurosport 1" tvg-logo="http://i.imgur.com/3KumUFO.png" group-title="Esportes (PT)",Eurosport 1 (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/342.ts
+#EXTINF:-1 tvg-id="EURSN" tvg-name="Eurosport News" tvg-logo="http://i.imgur.com/R4bexNB.png" group-title="Esportes (PT)",Eurosport News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/339.ts
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://s22.postimg.org/fv046q4ld/eurosport2xtra.png" group-title="Esportes (PT)",Eurosport 2 XTRA HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/340.ts
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC Kapa" tvg-logo="https://s12.postimg.org/itqfsddvh/SICK.png" group-title="Infantil (PT)",SIC K
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/288.ts
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs" tvg-logo="https://s17.postimg.org/e3kdmew7z/pandabiggs.png" group-title="Infantil (PT)",Biggs
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/365.ts
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-logo="https://s10.postimg.org/3py5juwwp/disney_junior.png" group-title="Infantil (PT)",Disney Junior (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/347.ts
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-logo="https://s10.postimg.org/6vira2fix/disney_channel.png" group-title="Infantil (PT)",Disney Channel (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/348.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil (PT)",Cartoon Network (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/357.ts
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="https://s21.postimg.org/9g9hwy5tj/panda.png" group-title="Infantil (PT)",Canal Panda
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/359.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/yl5by28bj/nick.png" group-title="Infantil (PT)",Nick (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/306.ts
+#EXTINF:-1 tvg-id="BABYT" tvg-name="Baby TV" tvg-logo="https://s11.postimg.org/cl889lnb7/Baby_TV.png" group-title="Infantil (PT)",Baby TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/368.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20151027180337" group-title="Infantil (PT)",Baby First
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/369.ts
+#EXTINF:-1 tvg-id="JJAM" tvg-logo="https://s10.postimg.org/kt0xfddll/jimjam.png" group-title="Infantil (PT)",JimJam
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/319.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://i.imgur.com/rUTfOat.png" group-title="Variedade e Músicas (PT)",VH1 Classic
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/248.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://i.imgur.com/aKObBAS.png" group-title="Variedade e Músicas (PT)",VH1 (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/249.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality Mosaico
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/252.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality Camara Exclusiva 4
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/253.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality Camara Exclusiva 3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/254.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality Camara Exclusiva 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/255.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality Camara Exclusiva 1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/256.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/dzwb2z3sv/tvireality.png" group-title="Variedade e Músicas (PT)",TVI Reality
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/257.ts
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://s12.postimg.org/j0vgqjnq5/TVIF_PC_BARRA_135x80.png" group-title="Variedade e Músicas (PT)",TVI Ficção
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/259.ts
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://s31.postimg.org/begx63whn/logo_TVI24.png" group-title="Notícias (PT)",TVI24
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/260.ts
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/8vn42ccdz/tvi.png" group-title="Variedade e Músicas (PT)",TVI Internacional
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/258.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://s21.postimg.org/8vn42ccdz/tvi.png" group-title="Variedade e Músicas (PT)",TVI
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/261.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://s21.postimg.org/8vn42ccdz/tvi.png" group-title="Variedade e Músicas (PT)",TVI HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/262.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vmLAtwf.png" group-title="Notícias (PT)",TVE Internacional
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/263.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ikk9r5Z.png" group-title="Notícias (PT)",TVE 24 Horas
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/264.ts
+#EXTINF:-1 tvg-id="TVC" tvg-name="TVC Internacional" tvg-logo="http://i.imgur.com/kAnnexV.png" group-title="Variedade e Músicas (PT)",TVC Internacional
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/269.ts
+#EXTINF:-1 tvg-id="TVRECORD" tvg-logo="http://i.imgur.com/cFUSBjp.png" group-title="Variedade e Músicas (PT)",RecordTV HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/270.ts
+#EXTINF:-1 tvg-id="TRACE" tvg-logo="https://s12.postimg.org/8crprpdr1/trace_urban.png" group-title="Variedade e Músicas (PT)",Trace Urban
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/272.ts
+#EXTINF:-1 tvg-id="TOROTV.pt" tvg-logo="https://s9.postimg.org/w8xc0n3fj/torostv.png" group-title="Esportes (PT)",Toros TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/273.ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-logo="https://s17.postimg.org/juak0547z/TLCls.png" group-title="Variedade e Músicas (PT)",TLC (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/274.ts
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/xgw7rzlnb/SKY_News.png" group-title="Notícias (PT)",Sky News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/284.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="https://s13.postimg.org/uik8536lj/Sic_radical2.png" group-title="Variedade e Músicas (PT)",SIC Radical
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/285.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://s31.postimg.org/49nlywncr/sic_Noticias.png" group-title="Notícias (PT)",SIC Noticias
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/286.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="https://s11.postimg.org/ozujqsasz/sicmulher.png" group-title="Variedade e Músicas (PT)",SIC Mulher
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/287.ts
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-logo="https://s10.postimg.org/juqmob3tl/SIC_Caras.png" group-title="Variedade e Músicas (PT)",SIC Caras
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/289.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://s21.postimg.org/pc0e9w6on/SIC.png" group-title="Variedade e Músicas (PT)",SIC
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/290.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="https://s21.postimg.org/rihrbps6v/rtpmemoria.png" group-title="Variedade e Músicas (PT)",RTP Memória
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/291.ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://s21.postimg.org/s6qlunqwn/rtpmadeira.png" group-title="Variedade e Músicas (PT)",RTP Madeira
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/292.ts
+#EXTINF:-1 tvg-logo="http://s31.postimg.org/x431y9lhn/12822981_10201212089181997_13205985_o.png" group-title="Variedade e Músicas (PT)",RTP Internacional
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/293.ts
+#EXTINF:-1 tvg-id="RTPAfrica.png" tvg-logo="https://s21.postimg.org/himuvtgxj/rtpafrica.png" group-title="Variedade e Músicas (PT)",RTP Africa
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/294.ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://s21.postimg.org/l0yus7htj/rtpacores.png" group-title="Variedade e Músicas (PT)",RTP Açores
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/295.ts
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="https://s18.postimg.org/lu17sb9sp/rtp3.png" group-title="Notícias (PT)",RTP3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/296.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://s31.postimg.org/v26aijrij/rtp2.png" group-title="Variedade e Músicas (PT)",RTP2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/297.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://s31.postimg.org/8osmjeyvf/rtp1.png" group-title="Variedade e Músicas (PT)",RTP1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/298.ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://s10.postimg.org/wq3jfosax/portocanal.png" group-title="Variedade e Músicas (PT)",Porto Canal
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/301.ts
+#EXTINF:-1 tvg-id="Outdoor" tvg-logo="http://i.imgur.com/RoDJ2i6.png" group-title="Esportes (PT)",Outdoor Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/304.ts
+#EXTINF:-1 tvg-id="TRV" tvg-logo="https://s12.postimg.org/ss9f4zgnh/travelchannel.png" group-title="Documentários (PT)",Travel Channel HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/271.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/4ui7canbz/odisseia.png" group-title="Documentários (PT)",Odisseia
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/305.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-logo="https://s10.postimg.org/g9ootuvq1/natgeo.png" group-title="Documentários (PT)",National Geographic HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/307.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="https://s32.postimg.org/kvp90qkz9/natgeowild.png" group-title="Documentários (PT)",NatGeo Wild HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/308.ts
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-logo="https://s10.postimg.org/hkwg2brbt/History_Channel_(2).png" group-title="Documentários (PT)",História
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/324.ts
+#EXTINF:-1 tvg-logo="https://s12.postimg.org/cp9139wn1/Discovery_Showcase_HD.png" group-title="Documentários (PT)",Discovery Showcase HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/349.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="https://s10.postimg.org/8yt6hqfbt/discovery_channel.png" group-title="Documentários (PT)",Discovery Channel (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/350.ts
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="https://s10.postimg.org/hngbp5uzd/MTV.png" group-title="Variedade e Músicas (PT)",MTV (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/309.ts
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/4gsyaysi3/motorvision.png" group-title="Variedade e Músicas (PT)",Motorvision
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/311.ts
+#EXTINF:-1 tvg-id="MCSL" tvg-logo="https://s15.postimg.org/nv7vulc23/mcslifestyle.png" group-title="Variedade e Músicas (PT)",MCS LifeStyle
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/313.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kl81fNk.png" group-title="Esportes (PT)",MCS Extreme
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/314.ts
+#EXTINF:-1 tvg-id="MCMTOP" tvg-logo="https://s18.postimg.org/u4hc3o5y1/mcmtop.png" group-title="Variedade e Músicas (PT)",MCM Top
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/315.ts
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/u4xwyotw7/mcmpop.png" group-title="Variedade e Músicas (PT)",MCM Pop
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/316.ts
+#EXTINF:-1 tvg-id="LVTV" tvg-name="Localvisao HD" tvg-logo="https://s16.postimg.org/tihr5z239/LocalvisaoTV.png" group-title="Variedade e Músicas (PT)",Localvisao HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/317.ts
+#EXTINF:-1 tvg-name="iConcerts HD" tvg-logo="http://i.imgur.com/xW9zGiK.png" group-title="Variedade e Músicas (PT)",iConcerts HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/320.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Variedade e Músicas (PT)",Globo Premium
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/325.ts
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/uqxhvnkm3/globo.png" group-title="Variedade e Músicas (PT)",Globo Portugal
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/326.ts
+#EXTINF:-1 tvg-id="Fox News [Brazil]" tvg-name="Fox News" tvg-logo="https://s12.postimg.org/d84vxscal/FoxNews.png" group-title="Notícias (PT)",Fox News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/328.ts
+#EXTINF:-1 tvg-id="FOOD" tvg-logo="http://i.imgur.com/kiAXVLS.png" group-title="Variedade e Músicas (PT)",Food Network
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/335.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n7kvFYP.png" group-title="Variedade e Músicas (PT)",Fine Living HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/336.ts
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-logo="https://s9.postimg.org/7ju6l85zj/Fightnetwork.png" group-title="Esportes (PT)",Fight Network HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/337.ts
+#EXTINF:-1 tvg-id="ftv.pt" tvg-logo="http://toddbarrettswimwear.com/image/cache/data/ftvlogo-200x200.png" group-title="Variedade e Músicas (PT)",FTV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/338.ts
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://s21.postimg.org/iomwmwqc7/euronews.png" group-title="Notícias (PT)",Euronews
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/343.ts
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-name="Económico TV" tvg-logo="https://s31.postimg.org/z5kihyo2v/Econ_mico_TV.png" group-title="Notícias (PT)",Económico TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/344.ts
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/EqtWIV0.png" group-title="Variedade e Músicas (PT)",E! (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/345.ts
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV" tvg-logo="http://i.imgur.com/pyEFepK.png" group-title="Variedade e Músicas (PT)",Dog TV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/346.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEVnl04.png" group-title="Variedade e Músicas (PT)",Crime&Investigation
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/351.ts
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://s17.postimg.org/pi068qpgv/cnn.png" group-tile="Notícias (PT)",CNN
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/352.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://s29.postimg.org/f7ax5rj5f/cmtv.png" group-title="Notícias (PT)",CMTV HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/353.ts
+#EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="http://i.imgur.com/qIR1VNp.png" group-title="Esportes (PT)",Chelsea TV (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/355.ts
+#EXTINF:-1 tvg-id="CBSR" tvg-logo="https://s10.postimg.org/67fpbabih/cbsreality.png" group-title="Variedade e Músicas (PT)",CBS Reality
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/356.ts
+#EXTINF:-1 tvg-logo="https://s16.postimg.org/jjuryld7p/canalq.png" group-title="Variedade e Músicas (PT)",Canal Q
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/358.ts
+#EXTINF:-1 tvg-logo="https://s9.postimg.org/6c3no0zrz/cacavision.png" group-title="Esportes (PT)",Caçavision
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/360.ts
+#EXTINF:-1 tvg-logo="https://s12.postimg.org/56aeioz71/cazaypesca.png" group-title="Esportes (PT)",Caça e Pesca
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/361.ts
+#EXTINF:-1 tvg-id="C-MUS" tvg-logo="http://www.cmusic.tv/images/cmusiclogo.png" group-title="Variedade e Músicas (PT)",C Music TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/362.ts
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="Bloomberg" tvg-logo="http://i.imgur.com/8EaHCW9.png" group-title="Notícias (PT)",Bloomberg
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/364.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/6v5cjh59b/bbc_world.png" group-title="Notícias (PT)",BBC World News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/366.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/b7qlx994f/bbce.png" group-title="Variedade e Músicas (PT)",BBC Entertainment
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/367.ts
+#EXTINF:-1 tvg-id="AFRO" tvg-logo="https://s21.postimg.org/miezfrmvb/afromusic.png" group-title="Variedade e Músicas (PT)",Afro Music Channel
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/374.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Variedade e Músicas",A&E (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/375.ts
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://s17.postimg.org/y6nbg654f/24Kitchen2.png" group-title="Variedade e Músicas (PT)",24 Kitchen HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/377.ts
+
+
+#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/P2zsyOp.png" group-title="Espanha",Real Madrid TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/406.ts
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="http://i.imgur.com/252B2oi.png" group-title="Espanha",Eurosport 2 (ES)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/411.ts
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="http://i.imgur.com/3KumUFO.png" group-title="Espanha",Eurosport 1 (ES)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/412.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J02zu1g.png" group-title="Espanha",Movistar Fútbol HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1" tvg-logo="http://i.imgur.com/8HGThx5.png" group-title="Espanha",Movistar Deportes 1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="http://i.imgur.com/FK2eguF.png" group-title="Espanha",Movistar Deportes 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/413.ts
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar MotoGP" tvg-logo="http://i.imgur.com/aesYrnB.png" group-title="Espanha",Motovistar MotoGP HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/408.ts
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Motovistar MotoGP" tvg-logo="http://i.imgur.com/aesYrnB.png" group-title="Espanha",Movistar MotoGP HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cJieygL.png" group-title="Espanha",Movistar Golf HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/416.ts
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca" tvg-logo="https://s12.postimg.org/56aeioz71/cazaypesca.png" group-title="Espanha",Caza y Pesca
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/414.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p9pR6ya.png" group-title="Espanha",La Liga TV HD (ES)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/410.ts
+#EXTINF:-1 tvg-id="BeinLaLiga.es" "tvg-logo="https://s19.postimg.org/7d678mqcj/beinlaliga.png" group-title="Espanha",beIN La Liga
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/415.ts
+#EXTINF:-1 tvg-id="BeinLaLiga.es" tvg-logo="https://s19.postimg.org/7d678mqcj/beinlaliga.png" group-title="Esportes",beIN La Liga HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/420.ts
+#EXTINF:-1 tvg-id="BeINsports.es" "tvg-logo="http://i.imgur.com/uBPK7eY.png" group-title="Espanha",beIN Sports HD (ES)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/421.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SFR Sports 3" tvg-logo="http://i.imgur.com/ZonVToc.png" group-title="França",SFR Sport 3 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="SFR Sports 2" tvg-logo="http://i.imgur.com/kwXDxQW.png" group-title="França",SFR Sport 2 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="SFR Sports 1" tvg-logo="http://i.imgur.com/yxIA5Qk.png" group-title="França",SFR Sport 1 HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/399.ts
+#EXTINF:-1 tvg-id="" tvg-name="Foot+" tvg-logo="http://i.imgur.com/U8Q8iBl.png" group-title="França",Foot+ HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://i.imgur.com/3KumUFO.png" group-title="França",Eurosport 1 (FR)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/402.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uBPK7eY.png" group-title="França",beIN Sports 2 HD (FE)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/403.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uBPK7eY.png" group-title="França",beIN Sports 3 HD (FR)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/404.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uBPK7eY.png" group-title="França",beIN Sports 1 HD (FR)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/405.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="http://i.imgur.com/FqTmTTR.png" group-title="Reino Unido",Sky Sports News
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="http://i.imgur.com/DYeW22T.png" group-title="Reino Unido",Sky Sports F1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5" tvg-logo="http://i.imgur.com/JLMr8HZ.png" group-title="Reino Unido",Sky Sports 5
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4" tvg-logo="http://i.imgur.com/9I1CBm1.png" group-title="Reino Unido",Sky Sports 4
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/381.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3" tvg-logo="http://i.imgur.com/kLD27eH.png" group-title="Reino Unido",Sky Sports 3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2" tvg-logo="http://i.imgur.com/eg9HR8Q.png" group-title="Reino Unido",Sky Sports 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1" tvg-logo="http://i.imgur.com/HiCRN6b.png" group-title="Reino Unido",Sky Sports 1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/384.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Premiere Sports" tvg-logo="http://i.imgur.com/sqkgZH3.png" group-title="Reino Unido",Premier Sports
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/385.ts
+#EXTINF:-1 tvg-id="" tvg-name="Poker Central" tvg-logo="https://s31.postimg.org/bxxmigfvr/pokercentral.png" group-title="Reino Unido",Poker Central
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Irish Horse TV" tvg-logo="http://i.imgur.com/cJfwrJj.png" group-title="Reino Unido",Irish Horse TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/389.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://i.imgur.com/9r4KFWH.png" group-title="Reino Unido",FOX Sports 3 (UK)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="http://i.imgur.com/rgNi3eK.png" group-title="Reino Unido",Fox Sports 1 HD (UK)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/391.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="http://i.imgur.com/qIR1VNp.png" group-title="Reino Unido",Chelsea TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/392.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="http://i.imgur.com/4oeQCwa.png" group-title="Reino Unido",CBSN HD
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/393.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="http://i.imgur.com/qvG0fwR.png" group-title="Reino Unido",BT Sport 3
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/394.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="http://i.imgur.com/llryPDF.png" group-title="Reino Unido",BT Sport 2
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="http://i.imgur.com/t4m2CS2.png" group-title="Reino Unido",BT Sport 1
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/396.ts
+
+
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/90.ts
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/91.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/92.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/302.ts
+#EXTINF:-1 tvg-id="VENUS" tvg-name="Venus" tvg-logo="http://i.imgur.com/Kfrh3Ee.png" group-title="Adulto",Venus (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/250.ts
+#EXTINF:-1 tvg-id="HOT" tvg-logo="https://s21.postimg.org/q761vjhp3/hot.png" group-title="Adulto",HOT HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/322.ts
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://s18.postimg.org/cmh2k34tl/Hustler_HD.png" group-title="Adulto",Hustler HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/321.ts
+#EXTINF:-1 tvg-name="Redlight HD" tvg-logo="http://i.imgur.com/GEuH64A.png" group-title="Adulto",Redlight HD (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/299.ts
+#EXTINF:-1 tvg-id="PENTHOUSEHD1" tvg-logo="https://s4.postimg.org/njdlfq2lp/Penthouse_HD.png" group-title="Adulto",Penthouse HD1 (PT)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV (ES)
+http://iptvbrasil.dyndns.tv:8080/live/Rafael2/Rech/407.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUoW6us.png" group-title="Radios",CBN
+http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SH72She.png" group-title="Radios",Clube do Pará
+http://hts02.kshost.com.br:8858/live
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="Radios",Rádio Globo SP
+http://media.sgr.globo.com:1935/RadioGloboRD/gamsp.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KxZXUg6.png" group-title="Radios",BH FM
+http://media.sgr.globo.com:1935/MusicalRD/bhfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NCWRLpV.png" group-title="Radios",Joven Pan AM
+http://evp.mm.uol.com.br:1935/jovempan/_definst_/jpam.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/um5nJdM.png" group-title="Radios",Joven Pan FM
+http://evp.mm.uol.com.br:1935/jovempanfm/jovempanfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H6eeJFt.png" group-title="Radios",Rádio Gaúcha
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TDcokvr.png" group-title="Radios",RFI
+http://live02.rfi.fr/rfibrasil-64k.mp3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="Radios",Rádio Globo RJ
+http://media.sgr.globo.com:1935/RadioGloboRD/gamrj.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="Radios",Transamérica
+http://transamerica.crossradio.com.br:9100/live.aac
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Xai7F0P.png" group-title="Radios",Nativa
+http://evp.mm.uol.com.br:1935/nativa_sp/nativa_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/owW4B56.png" group-title="Radios",Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_sp/bnewsfm_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf6t9qH.png" group-title="Radios",Itatiaia AM-FM
+http://radio5.logicahost.com.br:9210
+#EXTINF:-1 tvg-logo="http://i.imgur.com/COH52eu.png" group-title="Radios",Verdes Mares
+http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jKQRCmq.png" group-title="Radios",Clube FM
+http://5940.live.upx.net.br:9082
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fYQq2gg.png" group-title="Radios",Rádio Bandeirantes
+http://evp.mm.uol.com.br/radioam_sp/radioam_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WisDrRs.png" group-title="Radios",Band FM
+http://evp.mm.uol.com.br:1935/bandfm_sp/bandfm_sp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
