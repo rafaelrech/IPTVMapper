@@ -11,7 +11,7 @@ import java.util.*;
 
 public class EPGMapper {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 12L;
     private static final String GROUPS_FILE = "groups.properties";
     private static final String BLACKLIST = "blacklist.properties";
     private static final String WHITELIST = "whitelist.properties"; // whitelist de titles para groups da blacklist
